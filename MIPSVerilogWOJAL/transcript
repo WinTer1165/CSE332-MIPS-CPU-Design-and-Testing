@@ -1,0 +1,165 @@
+# Compile of adder.v was successful.
+# Compile of alu32.v was successful.
+# Compile of control.v was successful.
+# Compile of datapath.v was successful.
+# Compile of decoder4.v was successful.
+# Compile of flopr_param.v was successful.
+# Compile of MIPS_SCP.v was successful.
+# Compile of MIPS_SCP_tb.v was successful.
+# Compile of mux2.v was successful.
+# Compile of mux4.v was successful.
+# Compile of ram.v was successful.
+# Compile of regfile32.v was successful.
+# Compile of rom.v was successful.
+# Compile of signext.v was successful.
+# Compile of sl2.v was successful.
+# 15 compiles, 0 failed with no errors.
+# Load canceled
+vsim -gui work.MIPS_SCP_tb
+# vsim -gui work.MIPS_SCP_tb 
+# Start time: 13:22:33 on Apr 08,2025
+# Loading work.MIPS_SCP_tb
+# Loading work.MIPS_SCP
+# Loading work.Datapath
+# Loading work.flopr_param
+# Loading work.adder
+# Loading work.slt2
+# Loading work.mux2
+# Loading work.registerfile32
+# Loading work.alu32
+# Loading work.signext
+# Loading work.Controlunit
+# Loading work.ram
+# Loading work.rom
+# Loading work.FA
+run -all
+# ** Warning: (vsim-7) Failed to open readmem file "memfile4.txt" in read mode.
+# No such file or directory. (errno = ENOENT)    : D:/VerilogCPUs/MIPSVerilogWOJAL/rom.v(19)
+#    Time: 0 ns  Iteration: 0  Instance: /MIPS_SCP_tb/uut/imem
+# Break key hit
+quit -sim
+# End time: 13:23:32 on Apr 08,2025, Elapsed time: 0:00:59
+# Errors: 0, Warnings: 7
+# Load canceled
+# Compile of adder.v was successful.
+# Compile of alu32.v was successful.
+# Compile of control.v was successful.
+# Compile of datapath.v was successful.
+# Compile of decoder4.v was successful.
+# Compile of flopr_param.v was successful.
+# Compile of MIPS_SCP.v was successful.
+# Compile of MIPS_SCP_tb.v was successful.
+# Compile of mux2.v was successful.
+# Compile of mux4.v was successful.
+# Compile of ram.v was successful.
+# Compile of regfile32.v was successful.
+# Compile of rom.v was successful.
+# Compile of signext.v was successful.
+# Compile of sl2.v was successful.
+# 15 compiles, 0 failed with no errors.
+vsim -gui work.MIPS_SCP_tb
+# vsim -gui work.MIPS_SCP_tb 
+# Start time: 13:24:34 on Apr 08,2025
+# Loading work.MIPS_SCP_tb
+# Loading work.MIPS_SCP
+# Loading work.Datapath
+# Loading work.flopr_param
+# Loading work.adder
+# Loading work.slt2
+# Loading work.mux2
+# Loading work.registerfile32
+# Loading work.alu32
+# Loading work.signext
+# Loading work.Controlunit
+# Loading work.ram
+# Loading work.rom
+# Loading work.FA
+run -all
+quit -sim
+# End time: 13:43:24 on Apr 08,2025, Elapsed time: 0:18:50
+# Errors: 0, Warnings: 2
+# Compile of rom.v was successful.
+vsim -gui work.MIPS_SCP_tb
+# vsim -gui work.MIPS_SCP_tb 
+# Start time: 13:47:53 on Apr 08,2025
+# Loading work.MIPS_SCP_tb
+# Loading work.MIPS_SCP
+# Loading work.Datapath
+# Loading work.flopr_param
+# Loading work.adder
+# Loading work.slt2
+# Loading work.mux2
+# Loading work.registerfile32
+# Loading work.alu32
+# Loading work.signext
+# Loading work.Controlunit
+# Loading work.ram
+# Loading work.rom
+# Loading work.FA
+run -all
+# ** Warning: (vsim-7) Failed to open readmem file "program4.txt" in read mode.
+# No such file or directory. (errno = ENOENT)    : D:/VerilogCPUs/MIPSVerilogWOJAL/rom.v(19)
+#    Time: 0 ns  Iteration: 0  Instance: /MIPS_SCP_tb/uut/imem
+quit -sim
+# End time: 13:50:42 on Apr 08,2025, Elapsed time: 0:02:49
+# Errors: 0, Warnings: 4
+vsim -gui work.MIPS_SCP_tb
+# vsim -gui work.MIPS_SCP_tb 
+# Start time: 13:50:54 on Apr 08,2025
+# Loading work.MIPS_SCP_tb
+# Loading work.MIPS_SCP
+# Loading work.Datapath
+# Loading work.flopr_param
+# Loading work.adder
+# Loading work.slt2
+# Loading work.mux2
+# Loading work.registerfile32
+# Loading work.alu32
+# Loading work.signext
+# Loading work.Controlunit
+# Loading work.ram
+# Loading work.rom
+# Loading work.FA
+run -all
+# ** Warning: (vsim-7) Failed to open readmem file "program4.txt" in read mode.
+# No such file or directory. (errno = ENOENT)    : D:/VerilogCPUs/MIPSVerilogWOJAL/rom.v(19)
+#    Time: 0 ns  Iteration: 0  Instance: /MIPS_SCP_tb/uut/imem
+# Compile of adder.v was successful.
+# Compile of alu32.v was successful.
+# Compile of control.v was successful.
+# Compile of datapath.v was successful.
+# Compile of decoder4.v was successful.
+# Compile of flopr_param.v was successful.
+# Compile of MIPS_SCP.v was successful.
+# Compile of MIPS_SCP_tb.v was successful.
+# Compile of mux2.v was successful.
+# Compile of mux4.v was successful.
+# Compile of ram.v was successful.
+# Compile of regfile32.v was successful.
+# Compile of rom.v was successful.
+# Compile of signext.v was successful.
+# Compile of sl2.v was successful.
+# 15 compiles, 0 failed with no errors.
+quit -sim
+# End time: 13:52:37 on Apr 08,2025, Elapsed time: 0:01:43
+# Errors: 0, Warnings: 3
+vsim -gui work.MIPS_SCP_tb
+# vsim -gui work.MIPS_SCP_tb 
+# Start time: 13:52:46 on Apr 08,2025
+# Loading work.MIPS_SCP_tb
+# Loading work.MIPS_SCP
+# Loading work.Datapath
+# Loading work.flopr_param
+# Loading work.adder
+# Loading work.slt2
+# Loading work.mux2
+# Loading work.registerfile32
+# Loading work.alu32
+# Loading work.signext
+# Loading work.Controlunit
+# Loading work.ram
+# Loading work.rom
+# Loading work.FA
+run -all
+# End time: 14:56:21 on Apr 08,2025, Elapsed time: 1:03:35
+# Errors: 0, Warnings: 1

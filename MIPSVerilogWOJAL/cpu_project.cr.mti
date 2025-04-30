@@ -1,0 +1,131 @@
+D:/VerilogCPUs/MIPSVerilogWOJAL/adder.v {1 {vlog -work work -stats=none {D:\VerilogCPUs\MIPSVerilogWOJAL\adder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder
+-- Compiling module FA
+
+Top level modules:
+	adder
+
+} {} {}} D:/VerilogCPUs/MIPSVerilogWOJAL/ram.v {1 {vlog -work work -stats=none {D:\VerilogCPUs\MIPSVerilogWOJAL\ram.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ram
+
+Top level modules:
+	ram
+
+} {} {}} D:/VerilogCPUs/MIPSVerilogWOJAL/signext.v {1 {vlog -work work -stats=none D:/VerilogCPUs/MIPSVerilogWOJAL/signext.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module signext
+
+Top level modules:
+	signext
+
+} {} {}} D:/VerilogCPUs/MIPSVerilogWOJAL/flopr_param.v {1 {vlog -work work -stats=none D:/VerilogCPUs/MIPSVerilogWOJAL/flopr_param.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module flopr_param
+
+Top level modules:
+	flopr_param
+
+} {} {}} D:/VerilogCPUs/MIPSVerilogWOJAL/MIPS_SCP_tb.v {1 {vlog -work work -stats=none D:/VerilogCPUs/MIPSVerilogWOJAL/MIPS_SCP_tb.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MIPS_SCP_tb
+
+Top level modules:
+	MIPS_SCP_tb
+
+} {} {}} D:/VerilogCPUs/MIPSVerilogWOJAL/alu32.v {1 {vlog -work work -stats=none D:/VerilogCPUs/MIPSVerilogWOJAL/alu32.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module alu32
+
+Top level modules:
+	alu32
+
+} {} {}} D:/VerilogCPUs/MIPSVerilogWOJAL/sl2.v {1 {vlog -work work -stats=none D:/VerilogCPUs/MIPSVerilogWOJAL/sl2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module slt2
+
+Top level modules:
+	slt2
+
+} {} {}} D:/VerilogCPUs/MIPSVerilogWOJAL/control.v {1 {vlog -work work -stats=none D:/VerilogCPUs/MIPSVerilogWOJAL/control.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Controlunit
+
+Top level modules:
+	Controlunit
+
+} {} {}} D:/VerilogCPUs/MIPSVerilogWOJAL/decoder4.v {1 {vlog -work work -stats=none D:/VerilogCPUs/MIPSVerilogWOJAL/decoder4.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module decoder4
+
+Top level modules:
+	decoder4
+
+} {} {}} D:/VerilogCPUs/MIPSVerilogWOJAL/regfile32.v {1 {vlog -work work -stats=none D:/VerilogCPUs/MIPSVerilogWOJAL/regfile32.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module registerfile32
+
+Top level modules:
+	registerfile32
+
+} {} {}} D:/VerilogCPUs/MIPSVerilogWOJAL/mux2.v {1 {vlog -work work -stats=none D:/VerilogCPUs/MIPSVerilogWOJAL/mux2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux2
+
+Top level modules:
+	mux2
+
+} {} {}} D:/VerilogCPUs/MIPSVerilogWOJAL/rom.v {1 {vlog -work work -stats=none {D:\VerilogCPUs\MIPSVerilogWOJAL\rom.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module rom
+
+Top level modules:
+	rom
+
+} {} {}} D:/VerilogCPUs/MIPSVerilogWOJAL/MIPS_SCP.v {1 {vlog -work work -stats=none D:/VerilogCPUs/MIPSVerilogWOJAL/MIPS_SCP.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder
+-- Compiling module FA
+-- Compiling module alu32
+-- Compiling module flopr_param
+-- Compiling module mux2
+-- Compiling module mux4
+-- Compiling module registerfile32
+-- Compiling module signext
+-- Compiling module slt2
+-- Compiling module Datapath
+-- Compiling module ram
+-- Compiling module rom
+-- Compiling module Controlunit
+-- Compiling module MIPS_SCP
+
+Top level modules:
+	mux4
+	MIPS_SCP
+
+} {} {}} D:/VerilogCPUs/MIPSVerilogWOJAL/mux4.v {1 {vlog -work work -stats=none D:/VerilogCPUs/MIPSVerilogWOJAL/mux4.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux4
+
+Top level modules:
+	mux4
+
+} {} {}} D:/VerilogCPUs/MIPSVerilogWOJAL/datapath.v {1 {vlog -work work -stats=none D:/VerilogCPUs/MIPSVerilogWOJAL/datapath.v
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder
+-- Compiling module FA
+-- Compiling module alu32
+-- Compiling module flopr_param
+-- Compiling module mux2
+-- Compiling module mux4
+-- Compiling module registerfile32
+-- Compiling module signext
+-- Compiling module slt2
+-- Compiling module Datapath
+
+Top level modules:
+	mux4
+	Datapath
+
+} {} {}}

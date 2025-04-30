@@ -1,0 +1,301 @@
+ 
+------new run attempt for file t2.s--------
+syntax error at line 3: no label exists with this name
+syntax error at line 4: no label exists with this name
+ 
+------new run attempt for file t2.s--------
+syntax error at line 3: no label exists with this name
+syntax error at line 4: no label exists with this name
+ 
+------new run attempt for file long-test.s--------
+no error
+ 
+------new run attempt for file t2.s--------
+syntax error at line 4: no label exists with this name
+syntax error at line 5: no label exists with this name
+ 
+------new run attempt for file long-test.s--------
+no error
+ 
+------new run attempt for file long-test.s--------
+no error
+ 
+------new run attempt for file t3.s--------
+syntax error at line 3: no label exists with this name
+syntax error at line 4: no label exists with this name
+ 
+------new run attempt for file t3.s--------
+no error
+ 
+------new run attempt for file t3.s--------
+syntax error at line 1
+ 
+------new run attempt for file t3.s--------
+syntax error at line 4
+ 
+------new run attempt for file t3.s--------
+syntax error at line 4
+ 
+------new run attempt for file t3.s--------
+no error
+ 
+------new run attempt for file t3.s--------
+syntax error at line 8
+ 
+------new run attempt for file t3.s--------
+syntax error at line 8
+ 
+------new run attempt for file t3.s--------
+syntax error at line 8
+ 
+------new run attempt for file t3.s--------
+no error
+ 
+------new run attempt for file t3.s--------
+no error
+ 
+------new run attempt for file t4.s--------
+no error
+ 
+------new run attempt for file t4.s--------
+syntax error at line 4: no label exists with this name
+ 
+------new run attempt for file t4.s--------
+syntax error at line 4: no label exists with this name
+ 
+------new run attempt for file t4.s--------
+syntax error at line 4: no label exists with this name
+ 
+------new run attempt for file string_reverse.s--------
+no error
+ 
+------new run attempt for file string_reverse.s--------
+no error
+ 
+------new run attempt for file string_reverse.s--------
+no error
+ 
+------new run attempt for file string_reverse.s--------
+no error
+ 
+------new run attempt for file string_reverse.s--------
+no error
+ 
+------new run attempt for file long-test.s--------
+no error
+ 
+------new run attempt for file long-test.s--------
+no error
+ 
+------new run attempt for file t2.s--------
+syntax error at line 4: no label exists with this name
+syntax error at line 5: no label exists with this name
+ 
+------new run attempt for file t3.s--------
+no error
+ 
+------new run attempt for file t3.s--------
+no error
+ 
+------new run attempt for file t3.s--------
+no error
+ 
+------new run attempt for file t3.s--------
+no error
+ 
+------new run attempt for file t5.s--------
+no error
+ 
+------new run attempt for file t5.s--------
+no error
+ 
+------new run attempt for file Question_2.s--------
+syntax error at line 1
+syntax error at line 2 : can't put data in text segment
+syntax error at line 3 : can't put data in text segment
+syntax error at line 4 : can't put data in text segment
+syntax error at line 5 : can't put data in text segment
+syntax error at line 6 : can't put data in text segment
+syntax error at line 7 : can't put data in text segment
+syntax error at line 8
+syntax error at line 9
+syntax error at line 10
+syntax error at line 11
+syntax error at line 13
+syntax error at line 14
+syntax error at line 17
+syntax error at line 21
+syntax error at line 22
+syntax error at line 24
+syntax error at line 25
+syntax error at line 27
+syntax error at line 28
+syntax error at line 31
+syntax error at line 35
+syntax error at line 37
+syntax error at line 38
+syntax error at line 39
+syntax error at line 43
+syntax error at line 45
+syntax error at line 46
+syntax error at line 49
+syntax error at line 50
+syntax error at line 51
+syntax error at line 54
+syntax error at line 55
+syntax error at line 56
+syntax error at line 59
+syntax error at line 60
+syntax error at line 63
+syntax error at line 64
+syntax error at line 68
+syntax error at line 69
+syntax error at line 72
+syntax error at line 73
+syntax error at line 76
+syntax error at line 77
+syntax error at line 12: no label exists with this name
+syntax error at line 15
+syntax error at line 16: no label exists with this name
+syntax error at line 18
+syntax error at line 19: no label exists with this name
+syntax error at line 23: no label exists with this name
+syntax error at line 26
+syntax error at line 29
+syntax error at line 30
+syntax error at line 33
+syntax error at line 34
+syntax error at line 36
+syntax error at line 41
+syntax error at line 42
+syntax error at line 44
+syntax error at line 47
+syntax error at line 48: no label exists with this name
+syntax error at line 52
+syntax error at line 53: no label exists with this name
+syntax error at line 57
+syntax error at line 58: no label exists with this name
+syntax error at line 61
+syntax error at line 62
+syntax error at line 66
+syntax error at line 67
+syntax error at line 70
+syntax error at line 71: no label exists with this name
+syntax error at line 74
+syntax error at line 75
+syntax error at line 78
+ 
+------new run attempt for file dummy.s--------
+syntax error at line 1
+syntax error at line 2
+syntax error at line 3
+syntax error at line 4
+syntax error at line 5: not valid immediate value
+syntax error at line 6: no label exists with this name
+ 
+------new run attempt for file dummy.s--------
+syntax error at line 4
+syntax error at line 5
+syntax error at line 7
+syntax error at line 8
+syntax error at line 11
+syntax error at line 12
+syntax error at line 13
+syntax error at line 14
+syntax error at line 15
+syntax error at line 16
+syntax error at line 1
+syntax error at line 2: no label exists with this name
+syntax error at line 3: no label exists with this name
+syntax error at line 6
+syntax error at line 9
+syntax error at line 10
+ 
+------new run attempt for file dummy.s--------
+syntax error at line 4
+syntax error at line 6
+syntax error at line 8
+syntax error at line 9
+syntax error at line 10
+syntax error at line 11
+syntax error at line 12
+syntax error at line 1
+syntax error at line 2: no label exists with this name
+syntax error at line 3: no label exists with this name
+syntax error at line 5
+syntax error at line 7
+ 
+------new run attempt for file dummy.s--------
+syntax error at line 4
+syntax error at line 6
+syntax error at line 8
+syntax error at line 9
+syntax error at line 10
+syntax error at line 11
+syntax error at line 12
+syntax error at line 1
+syntax error at line 2: no label exists with this name
+syntax error at line 3: no label exists with this name
+syntax error at line 5
+syntax error at line 7
+ 
+------new run attempt for file dummy.s--------
+syntax error at line 1
+syntax error at line 5
+syntax error at line 7
+syntax error at line 9
+syntax error at line 10
+syntax error at line 11
+syntax error at line 12
+syntax error at line 13
+syntax error at line 2
+syntax error at line 3: no label exists with this name
+syntax error at line 4: no label exists with this name
+syntax error at line 6
+syntax error at line 8
+ 
+------new run attempt for file dummy.s--------
+syntax error at line 1
+syntax error at line 5
+syntax error at line 7
+syntax error at line 2
+syntax error at line 3: no label exists with this name
+syntax error at line 4: no label exists with this name
+syntax error at line 6
+syntax error at line 8
+ 
+------new run attempt for file t4.s--------
+syntax error at line 6: no label exists with this name
+ 
+------new run attempt for file t4.s--------
+syntax error at line 6: no label exists with this name
+ 
+------new run attempt for file t4.s--------
+syntax error at line 6
+ 
+------new run attempt for file t4.s--------
+syntax error at line 4: no label exists with this name
+ 
+------new run attempt for file t4.s--------
+syntax error at line 4
+ 
+------new run attempt for file t4.s--------
+no error
+ 
+------new run attempt for file t4.s--------
+no error
+ 
+------new run attempt for file hellomips.s--------
+syntax error at line 5
+ 
+------new run attempt for file hellomips.s--------
+no error
+ 
+------new run attempt for file add5_7.s--------
+no error
+ 
+------new run attempt for file add5_7.s--------
+no error
+ 
+------new run attempt for file add5_7.s--------
+no error
