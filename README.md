@@ -390,8 +390,9 @@ make
 ```bash
 ./build/MipsAssembler hellomips.s hello.out hello.log
 ```
-<img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/3%20Pic/wsl.png" width="600" alt="Description of image">  
+
 <img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/3%20Pic/upasm.png" width="600" alt="Description of image">  
+<img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/3%20Pic/wsl.png" width="600" alt="Description of image">  
 
 2. View the binary file using any text editor:  
 
