@@ -1,0 +1,407 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_pro/20.1/modelsim_ase/win32aloem
+vadder
+Z0 !s110 1746050013
+!i10b 1
+!s100 POdD8SeL7hLzOOf0@VaNZ2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IRjjkiVk>]`EGOM8T?Ode?1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/User/Desktop/Project/Root/Project 3
+Z4 w1705214447
+Z5 8adder.v
+Z6 Fadder.v
+!i122 380
+L0 6 16
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1746050013.000000
+Z9 !s107 control.v|rom.v|ram.v|sl2.v|signext.v|regfile32.v|mux4.v|mux2.v|flopr_param.v|alu32.v|adder.v|datapath.v|C:/Users/User/Desktop/Project/Root/Project 3/MIPS_SCP.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/Project/Root/Project 3/MIPS_SCP.v|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+valu32
+R0
+!i10b 1
+!s100 ]gY<PLG=LjDkAF_C<ITl=0
+R1
+I<jCzYWLD;ShUb=76XE]eg2
+R2
+R3
+w1704775379
+8alu32.v
+Falu32.v
+!i122 380
+L0 6 29
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vControlunit
+R0
+!i10b 1
+!s100 IAUkQj]IZ7Ji934YJJ9Kz3
+R1
+ISTgfW9^hhff`T;CahR_NC0
+R2
+R3
+w1745943267
+8control.v
+Fcontrol.v
+!i122 380
+L0 7 129
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@controlunit
+vDatapath
+R0
+!i10b 1
+!s100 l]cNgaQRQ35EoAEdDZ?G@3
+R1
+Il<BPRJJ?0a:2beH[fVB7K2
+R2
+R3
+w1745942648
+8datapath.v
+Fdatapath.v
+!i122 380
+L0 12 47
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@datapath
+vdecoder4
+R0
+!i10b 1
+!s100 k1PDc_jh3bdPICKz6AkfC2
+R1
+IeOmMcE:[6mSJ29o;Hhcjz2
+R2
+R3
+w1704775437
+8C:/Users/User/Desktop/Project/Root/Project 3/decoder4.v
+FC:/Users/User/Desktop/Project/Root/Project 3/decoder4.v
+!i122 378
+L0 6 41
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/User/Desktop/Project/Root/Project 3/decoder4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/Project/Root/Project 3/decoder4.v|
+!i113 1
+R11
+R12
+vFA
+R0
+!i10b 1
+!s100 H=jfXY22PJTHJQJ3=4<L=2
+R1
+I85UW]EN8NCzgQbPOdB`<`3
+R2
+R3
+R4
+R5
+R6
+!i122 380
+L0 23 5
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@f@a
+vflopr_param
+R0
+!i10b 1
+!s100 ==fG^OPB_[hTIdMzE4P=z3
+R1
+IZ7MKT3J:[OAFdj59goeck1
+R2
+R3
+w1704775476
+8flopr_param.v
+Fflopr_param.v
+!i122 380
+L0 6 13
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vMIPS_SCP
+R0
+!i10b 1
+!s100 GnZN4IT`?WZz7V[X<[@T:2
+R1
+I=johkC9JO>5NgWM4;R9ZM1
+R2
+R3
+w1745947644
+8C:/Users/User/Desktop/Project/Root/Project 3/MIPS_SCP.v
+FC:/Users/User/Desktop/Project/Root/Project 3/MIPS_SCP.v
+!i122 380
+L0 8 33
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@m@i@p@s_@s@c@p
+vMIPS_SCP_tb
+R0
+!i10b 1
+!s100 jlTL_T1d?CU8SfnmcolaP1
+R1
+I>mYc7V>n:za=mdEm:IV=D3
+R2
+R3
+w1746049970
+8C:\Users\User\Desktop\Project\Root\Project 3\MIPS_SCP_tb.v
+FC:\Users\User\Desktop\Project\Root\Project 3\MIPS_SCP_tb.v
+!i122 381
+L0 7 67
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:\Users\User\Desktop\Project\Root\Project 3\MIPS_SCP_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\User\Desktop\Project\Root\Project 3\MIPS_SCP_tb.v|
+!i113 1
+R11
+R12
+n@m@i@p@s_@s@c@p_tb
+vmux2
+R0
+!i10b 1
+!s100 cKn3GS0^`?]:SEii3GNzJ1
+R1
+IPz9nd:L?R>UEYbeB:4EoS3
+R2
+R3
+w1704776184
+8C:/Users/User/Desktop/Project/Root/Project 3/mux2.v
+FC:/Users/User/Desktop/Project/Root/Project 3/mux2.v
+!i122 382
+L0 6 12
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/User/Desktop/Project/Root/Project 3/mux2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/Project/Root/Project 3/mux2.v|
+!i113 1
+R11
+R12
+vmux4
+R0
+!i10b 1
+!s100 K5ZiK[1HFMeGGATIz9djP2
+R1
+IGJ8FH@3dQ`:EO>:[7O6]z2
+R2
+R3
+w1704775545
+8C:/Users/User/Desktop/Project/Root/Project 3/mux4.v
+FC:/Users/User/Desktop/Project/Root/Project 3/mux4.v
+!i122 383
+Z13 L0 6 20
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/User/Desktop/Project/Root/Project 3/mux4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/Project/Root/Project 3/mux4.v|
+!i113 1
+R11
+R12
+vprint_string_tb
+!s110 1746049043
+!i10b 1
+!s100 _hl^F3eX@NO^z9IBEa4_:2
+R1
+IAilSbMbh]=?lU]i3a4[ck3
+R2
+R3
+w1746048822
+8MIPS_SCP_tb.v
+FMIPS_SCP_tb.v
+!i122 314
+L0 16 47
+R7
+r1
+!s85 0
+31
+!s108 1746049043.000000
+!s107 MIPS_SCP_tb.v|
+!s90 -reportprogress|300|-work|work|MIPS_SCP_tb.v|
+!i113 1
+R11
+R12
+vram
+R0
+!i10b 1
+!s100 4<F0V5_Zi^KkYRzZ8AUg`0
+R1
+IfPCJ3d=@kT6147;SQ=3j92
+R2
+R3
+w1746045430
+8C:/Users/User/Desktop/Project/Root/Project 3/ram.v
+FC:/Users/User/Desktop/Project/Root/Project 3/ram.v
+!i122 384
+L0 5 27
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/User/Desktop/Project/Root/Project 3/ram.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/Project/Root/Project 3/ram.v|
+!i113 1
+R11
+R12
+vregisterfile32
+R0
+!i10b 1
+!s100 UPaY0dJ8W7nOe;gZ1:dgo3
+R1
+I1LBZgkkK1PQI:<<diXJdA3
+R2
+R3
+w1704776186
+8C:/Users/User/Desktop/Project/Root/Project 3/regfile32.v
+FC:/Users/User/Desktop/Project/Root/Project 3/regfile32.v
+!i122 385
+L0 6 34
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/User/Desktop/Project/Root/Project 3/regfile32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/Project/Root/Project 3/regfile32.v|
+!i113 1
+R11
+R12
+vrom
+R0
+!i10b 1
+!s100 YDcXZ`46Zc`ZYgiE4Mo_P3
+R1
+I6`o8USL^Amdj:o?8TKIcb0
+R2
+R3
+w1744098724
+8C:/Users/User/Desktop/Project/Root/Project 3/rom.v
+FC:/Users/User/Desktop/Project/Root/Project 3/rom.v
+!i122 386
+R13
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/User/Desktop/Project/Root/Project 3/rom.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/Project/Root/Project 3/rom.v|
+!i113 1
+R11
+R12
+vsignext
+R0
+!i10b 1
+!s100 ]O6EBlmRCeeaS6VEg0jFT1
+R1
+IR3JzU8>k]@Q3ZkK=NdcOa2
+R2
+R3
+w1704775668
+8C:/Users/User/Desktop/Project/Root/Project 3/signext.v
+FC:/Users/User/Desktop/Project/Root/Project 3/signext.v
+!i122 387
+L0 6 7
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/User/Desktop/Project/Root/Project 3/signext.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/Project/Root/Project 3/signext.v|
+!i113 1
+R11
+R12
+vslt2
+R0
+!i10b 1
+!s100 L`WcOzOS9d8K6WWdkoel<0
+R1
+IEV81EB<FQF[ML6<<WIQ222
+R2
+R3
+w1745900466
+8C:/Users/User/Desktop/Project/Root/Project 3/sl2.v
+FC:/Users/User/Desktop/Project/Root/Project 3/sl2.v
+!i122 388
+L0 6 6
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/User/Desktop/Project/Root/Project 3/sl2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/Project/Root/Project 3/sl2.v|
+!i113 1
+R11
+R12
