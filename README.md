@@ -45,10 +45,10 @@ g++ finalassembler.cpp -o myassemblername
 ```bash
  nano test.bin
 ```
-<img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/0%20Pic/nano.png" width="600" alt="Description of image">  
+<img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/0%20Pic/nano.png" width="500" alt="Description of image">  
 7. Transfer content from test.bin to memfile.txt (remove all spaces and hex addresses)
 
-<img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/0%20Pic/mem.png" width="600" alt="Description of image">  
+<img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/0%20Pic/mem.png" width="500" alt="Description of image">  
 
 ### Setting Up ModelSim
 
@@ -106,25 +106,25 @@ module MIPS_SCP_tb;
 endmodule
 ```
 
-<img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/1%20Pic/scode.png" width="600" alt="Description of image">  
+<img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/1%20Pic/scode.png" width="400" alt="Description of image">  
 1. Create a binary file from assembly for our .s file:
 ```bash
 ./myassembler jaljrtest.s jaljrtest.bin
 ```
-<img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/1%20Pic/wsl.png" width="600" alt="Description of image">  
+<img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/1%20Pic/wsl.png" width="500" alt="Description of image">  
 2. View the binary file from assembly or use any text editor:  
 
 ```bash
 nano jaljrtest.bin
 ```
-<img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/1%20Pic/bin.png" width="600" alt="Description of image">  
+<img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/1%20Pic/bin.png" width="500" alt="Description of image">  
 3. Transfer content from jaljrtest.bin to memfile.txt (remove all spaces and hex addresses)
 
 <img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/1%20Pic/mem.png" width="600" alt="Description of image"> 
 
 4. Simulate the new project using the same methods as Project 0.
 
-<img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/1%20Pic/ms1.png" width="600" alt="Description of image">  
+<img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/1%20Pic/ms1.png" width="400" alt="Description of image">  
 <img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/1%20Pic/ms2.png" width="600" alt="Description of image">  
 
 ## Project 2: Implement and verify MIN, MAX, MEAN operations
@@ -272,12 +272,12 @@ endmodule
 ```bash
 nano mmm.bin
 ```
-<img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/2%20Pic/bin.png" width="600" alt="Description of image">  
+<img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/2%20Pic/bin.png" width="500" alt="Description of image">  
 3. Transfer content from mmm.bin to memfile.txt (remove all spaces and hex addresses)
 
-<img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/2%20Pic/mem.png" width="600" alt="Description of image"> 
+<img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/2%20Pic/mem.png" width="500" alt="Description of image"> 
 
 4. Simulate the new project using the same methods as Project 0.
 
-<img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/2%20Pic/ms1.png" width="600" alt="Description of image">  
+<img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/2%20Pic/ms1.png" width="400" alt="Description of image">  
 <img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/2%20Pic/ms2.png" width="600" alt="Description of image">  
