@@ -1,0 +1,131 @@
+{C:/Users/User/Desktop/Project/Root/Project 0 - Check if ModelSim_WSL working/adder.v} {1 {vlog -work work -stats=none {C:/Users/User/Desktop/Project/Root/Project 0 - Check if ModelSim_WSL working/adder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder
+-- Compiling module FA
+
+Top level modules:
+	adder
+
+} {} {}} {C:/Users/User/Desktop/Project/Root/Project 0 - Check if ModelSim_WSL working/ram.v} {1 {vlog -work work -stats=none {C:/Users/User/Desktop/Project/Root/Project 0 - Check if ModelSim_WSL working/ram.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ram
+
+Top level modules:
+	ram
+
+} {} {}} {C:/Users/User/Desktop/Project/Root/Project 0 - Check if ModelSim_WSL working/signext.v} {1 {vlog -work work -stats=none {C:/Users/User/Desktop/Project/Root/Project 0 - Check if ModelSim_WSL working/signext.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module signext
+
+Top level modules:
+	signext
+
+} {} {}} {C:/Users/User/Desktop/Project/Root/Project 0 - Check if ModelSim_WSL working/decoder4.v} {1 {vlog -work work -stats=none {C:/Users/User/Desktop/Project/Root/Project 0 - Check if ModelSim_WSL working/decoder4.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module decoder4
+
+Top level modules:
+	decoder4
+
+} {} {}} {C:/Users/User/Desktop/Project/Root/Project 0 - Check if ModelSim_WSL working/MIPS_SCP_tb.v} {1 {vlog -work work -stats=none {C:/Users/User/Desktop/Project/Root/Project 0 - Check if ModelSim_WSL working/MIPS_SCP_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MIPS_SCP_tb
+
+Top level modules:
+	MIPS_SCP_tb
+
+} {} {}} {C:/Users/User/Desktop/Project/Root/Project 0 - Check if ModelSim_WSL working/flopr_param.v} {1 {vlog -work work -stats=none {C:/Users/User/Desktop/Project/Root/Project 0 - Check if ModelSim_WSL working/flopr_param.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module flopr_param
+
+Top level modules:
+	flopr_param
+
+} {} {}} {C:/Users/User/Desktop/Project/Root/Project 0 - Check if ModelSim_WSL working/mux2.v} {1 {vlog -work work -stats=none {C:/Users/User/Desktop/Project/Root/Project 0 - Check if ModelSim_WSL working/mux2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux2
+
+Top level modules:
+	mux2
+
+} {} {}} {C:/Users/User/Desktop/Project/Root/Project 0 - Check if ModelSim_WSL working/MIPS_SCP.v} {1 {vlog -work work -stats=none {C:/Users/User/Desktop/Project/Root/Project 0 - Check if ModelSim_WSL working/MIPS_SCP.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder
+-- Compiling module FA
+-- Compiling module alu32
+-- Compiling module flopr_param
+-- Compiling module mux2
+-- Compiling module mux4
+-- Compiling module registerfile32
+-- Compiling module signext
+-- Compiling module slt2
+-- Compiling module Datapath
+-- Compiling module ram
+-- Compiling module rom
+-- Compiling module Controlunit
+-- Compiling module MIPS_SCP
+
+Top level modules:
+	mux4
+	MIPS_SCP
+
+} {} {}} {C:/Users/User/Desktop/Project/Root/Project 0 - Check if ModelSim_WSL working/mux4.v} {1 {vlog -work work -stats=none {C:/Users/User/Desktop/Project/Root/Project 0 - Check if ModelSim_WSL working/mux4.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux4
+
+Top level modules:
+	mux4
+
+} {} {}} {C:/Users/User/Desktop/Project/Root/Project 0 - Check if ModelSim_WSL working/alu32.v} {1 {vlog -work work -stats=none {C:/Users/User/Desktop/Project/Root/Project 0 - Check if ModelSim_WSL working/alu32.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module alu32
+
+Top level modules:
+	alu32
+
+} {} {}} {C:/Users/User/Desktop/Project/Root/Project 0 - Check if ModelSim_WSL working/datapath.v} {1 {vlog -work work -stats=none {C:/Users/User/Desktop/Project/Root/Project 0 - Check if ModelSim_WSL working/datapath.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder
+-- Compiling module FA
+-- Compiling module alu32
+-- Compiling module flopr_param
+-- Compiling module mux2
+-- Compiling module mux4
+-- Compiling module registerfile32
+-- Compiling module signext
+-- Compiling module slt2
+-- Compiling module Datapath
+
+Top level modules:
+	mux4
+	Datapath
+
+} {} {}} {C:/Users/User/Desktop/Project/Root/Project 0 - Check if ModelSim_WSL working/control.v} {1 {vlog -work work -stats=none {C:/Users/User/Desktop/Project/Root/Project 0 - Check if ModelSim_WSL working/control.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Controlunit
+
+Top level modules:
+	Controlunit
+
+} {} {}} {C:/Users/User/Desktop/Project/Root/Project 0 - Check if ModelSim_WSL working/sl2.v} {1 {vlog -work work -stats=none {C:/Users/User/Desktop/Project/Root/Project 0 - Check if ModelSim_WSL working/sl2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module slt2
+
+Top level modules:
+	slt2
+
+} {} {}} {C:/Users/User/Desktop/Project/Root/Project 0 - Check if ModelSim_WSL working/regfile32.v} {1 {vlog -work work -stats=none {C:/Users/User/Desktop/Project/Root/Project 0 - Check if ModelSim_WSL working/regfile32.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module registerfile32
+
+Top level modules:
+	registerfile32
+
+} {} {}} {C:/Users/User/Desktop/Project/Root/Project 0 - Check if ModelSim_WSL working/rom.v} {1 {vlog -work work -stats=none {C:/Users/User/Desktop/Project/Root/Project 0 - Check if ModelSim_WSL working/rom.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module rom
+
+Top level modules:
+	rom
+
+} {} {}}

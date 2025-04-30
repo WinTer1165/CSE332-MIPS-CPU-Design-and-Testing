@@ -1,0 +1,384 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_pro/20.1/modelsim_ase/win32aloem
+vadder
+Z0 !s110 1746031009
+!i10b 1
+!s100 POdD8SeL7hLzOOf0@VaNZ2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IRjjkiVk>]`EGOM8T?Ode?1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/User/Desktop/Project/Root/Project 1 - Checking if JAL_JR working
+Z4 w1705214447
+Z5 8adder.v
+Z6 Fadder.v
+!i122 350
+L0 6 16
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1746031009.000000
+Z9 !s107 control.v|rom.v|ram.v|sl2.v|signext.v|regfile32.v|mux4.v|mux2.v|flopr_param.v|alu32.v|adder.v|datapath.v|C:/Users/User/Desktop/Project/Root/Project 1 - Checking if JAL_JR working/MIPS_SCP.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/Project/Root/Project 1 - Checking if JAL_JR working/MIPS_SCP.v|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+valu32
+R0
+!i10b 1
+!s100 ]gY<PLG=LjDkAF_C<ITl=0
+R1
+I<jCzYWLD;ShUb=76XE]eg2
+R2
+R3
+w1704775379
+8alu32.v
+Falu32.v
+!i122 350
+L0 6 29
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vControlunit
+R0
+!i10b 1
+!s100 IAUkQj]IZ7Ji934YJJ9Kz3
+R1
+ISTgfW9^hhff`T;CahR_NC0
+R2
+R3
+w1745943267
+8control.v
+Fcontrol.v
+!i122 350
+L0 7 129
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@controlunit
+vDatapath
+R0
+!i10b 1
+!s100 l]cNgaQRQ35EoAEdDZ?G@3
+R1
+Il<BPRJJ?0a:2beH[fVB7K2
+R2
+R3
+w1745942648
+8datapath.v
+Fdatapath.v
+!i122 350
+L0 12 47
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@datapath
+vdecoder4
+!s110 1746031008
+!i10b 1
+!s100 k1PDc_jh3bdPICKz6AkfC2
+R1
+IM@QM3zNaT8N^E:MW@8YBT2
+R2
+R3
+w1704775437
+8C:/Users/User/Desktop/Project/Root/Project 1 - Checking if JAL_JR working/decoder4.v
+FC:/Users/User/Desktop/Project/Root/Project 1 - Checking if JAL_JR working/decoder4.v
+!i122 348
+L0 6 41
+R7
+r1
+!s85 0
+31
+!s108 1746031008.000000
+!s107 C:/Users/User/Desktop/Project/Root/Project 1 - Checking if JAL_JR working/decoder4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/Project/Root/Project 1 - Checking if JAL_JR working/decoder4.v|
+!i113 1
+R11
+R12
+vFA
+R0
+!i10b 1
+!s100 H=jfXY22PJTHJQJ3=4<L=2
+R1
+I85UW]EN8NCzgQbPOdB`<`3
+R2
+R3
+R4
+R5
+R6
+!i122 350
+L0 23 5
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@f@a
+vflopr_param
+R0
+!i10b 1
+!s100 ==fG^OPB_[hTIdMzE4P=z3
+R1
+IZ7MKT3J:[OAFdj59goeck1
+R2
+R3
+w1704775476
+8flopr_param.v
+Fflopr_param.v
+!i122 350
+L0 6 13
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vMIPS_SCP
+R0
+!i10b 1
+!s100 GnZN4IT`?WZz7V[X<[@T:2
+R1
+IRGaC?E[0DRCl;VgWWWJ0]2
+R2
+R3
+w1745947644
+8C:/Users/User/Desktop/Project/Root/Project 1 - Checking if JAL_JR working/MIPS_SCP.v
+FC:/Users/User/Desktop/Project/Root/Project 1 - Checking if JAL_JR working/MIPS_SCP.v
+!i122 350
+L0 8 33
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@m@i@p@s_@s@c@p
+vMIPS_SCP_tb
+R0
+!i10b 1
+!s100 T3ANdHNo`_jQAL@WN8o921
+R1
+ID9Z^2Wgak31KGUXLng6PX2
+R2
+R3
+w1745949688
+8C:/Users/User/Desktop/Project/Root/Project 1 - Checking if JAL_JR working/MIPS_SCP_tb.v
+FC:/Users/User/Desktop/Project/Root/Project 1 - Checking if JAL_JR working/MIPS_SCP_tb.v
+!i122 351
+L0 8 26
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/User/Desktop/Project/Root/Project 1 - Checking if JAL_JR working/MIPS_SCP_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/Project/Root/Project 1 - Checking if JAL_JR working/MIPS_SCP_tb.v|
+!i113 1
+R11
+R12
+n@m@i@p@s_@s@c@p_tb
+vmux2
+R0
+!i10b 1
+!s100 cKn3GS0^`?]:SEii3GNzJ1
+R1
+ImUQU_CcZCaNhGZNU`]CJd3
+R2
+R3
+w1704776184
+8C:/Users/User/Desktop/Project/Root/Project 1 - Checking if JAL_JR working/mux2.v
+FC:/Users/User/Desktop/Project/Root/Project 1 - Checking if JAL_JR working/mux2.v
+!i122 352
+L0 6 12
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/User/Desktop/Project/Root/Project 1 - Checking if JAL_JR working/mux2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/Project/Root/Project 1 - Checking if JAL_JR working/mux2.v|
+!i113 1
+R11
+R12
+vmux4
+R0
+!i10b 1
+!s100 K5ZiK[1HFMeGGATIz9djP2
+R1
+I3zE7Cbm7bhY1M958P7EYl1
+R2
+R3
+w1704775545
+8C:/Users/User/Desktop/Project/Root/Project 1 - Checking if JAL_JR working/mux4.v
+FC:/Users/User/Desktop/Project/Root/Project 1 - Checking if JAL_JR working/mux4.v
+!i122 353
+Z13 L0 6 20
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/User/Desktop/Project/Root/Project 1 - Checking if JAL_JR working/mux4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/Project/Root/Project 1 - Checking if JAL_JR working/mux4.v|
+!i113 1
+R11
+R12
+vram
+R0
+!i10b 1
+!s100 d164]T7az:jD<k@Q>@;ce2
+R1
+Ilo4V@7oWQmBneL3Vd4]<T3
+R2
+R3
+Z14 w1704776186
+8C:/Users/User/Desktop/Project/Root/Project 1 - Checking if JAL_JR working/ram.v
+FC:/Users/User/Desktop/Project/Root/Project 1 - Checking if JAL_JR working/ram.v
+!i122 354
+L0 5 24
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/User/Desktop/Project/Root/Project 1 - Checking if JAL_JR working/ram.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/Project/Root/Project 1 - Checking if JAL_JR working/ram.v|
+!i113 1
+R11
+R12
+vregisterfile32
+R0
+!i10b 1
+!s100 UPaY0dJ8W7nOe;gZ1:dgo3
+R1
+IK?0ePHNJ:gmg18;VmaER]1
+R2
+R3
+R14
+8C:/Users/User/Desktop/Project/Root/Project 1 - Checking if JAL_JR working/regfile32.v
+FC:/Users/User/Desktop/Project/Root/Project 1 - Checking if JAL_JR working/regfile32.v
+!i122 355
+L0 6 34
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/User/Desktop/Project/Root/Project 1 - Checking if JAL_JR working/regfile32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/Project/Root/Project 1 - Checking if JAL_JR working/regfile32.v|
+!i113 1
+R11
+R12
+vrom
+R0
+!i10b 1
+!s100 YDcXZ`46Zc`ZYgiE4Mo_P3
+R1
+INlhDnckK6g:Ra`V]65D4C3
+R2
+R3
+w1744098724
+8C:/Users/User/Desktop/Project/Root/Project 1 - Checking if JAL_JR working/rom.v
+FC:/Users/User/Desktop/Project/Root/Project 1 - Checking if JAL_JR working/rom.v
+!i122 356
+R13
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/User/Desktop/Project/Root/Project 1 - Checking if JAL_JR working/rom.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/Project/Root/Project 1 - Checking if JAL_JR working/rom.v|
+!i113 1
+R11
+R12
+vsignext
+R0
+!i10b 1
+!s100 ]O6EBlmRCeeaS6VEg0jFT1
+R1
+I[N0eVLEXnGhVCalg7_ojf2
+R2
+R3
+w1704775668
+8C:/Users/User/Desktop/Project/Root/Project 1 - Checking if JAL_JR working/signext.v
+FC:/Users/User/Desktop/Project/Root/Project 1 - Checking if JAL_JR working/signext.v
+!i122 357
+L0 6 7
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/User/Desktop/Project/Root/Project 1 - Checking if JAL_JR working/signext.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/Project/Root/Project 1 - Checking if JAL_JR working/signext.v|
+!i113 1
+R11
+R12
+vslt2
+R0
+!i10b 1
+!s100 L`WcOzOS9d8K6WWdkoel<0
+R1
+I6Am8YiG:CSLDlAH:O]=Jh3
+R2
+R3
+w1745900466
+8C:/Users/User/Desktop/Project/Root/Project 1 - Checking if JAL_JR working/sl2.v
+FC:/Users/User/Desktop/Project/Root/Project 1 - Checking if JAL_JR working/sl2.v
+!i122 358
+L0 6 6
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/User/Desktop/Project/Root/Project 1 - Checking if JAL_JR working/sl2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/Project/Root/Project 1 - Checking if JAL_JR working/sl2.v|
+!i113 1
+R11
+R12

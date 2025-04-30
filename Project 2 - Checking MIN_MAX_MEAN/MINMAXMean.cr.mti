@@ -1,0 +1,131 @@
+{C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/MIPS_SCP.v} {1 {vlog -work work -stats=none {C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/MIPS_SCP.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder
+-- Compiling module FA
+-- Compiling module alu32
+-- Compiling module flopr_param
+-- Compiling module mux2
+-- Compiling module mux4
+-- Compiling module registerfile32
+-- Compiling module signext
+-- Compiling module slt2
+-- Compiling module Datapath
+-- Compiling module ram
+-- Compiling module rom
+-- Compiling module Controlunit
+-- Compiling module MIPS_SCP
+
+Top level modules:
+	mux4
+	MIPS_SCP
+
+} {} {}} {C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/mux4.v} {1 {vlog -work work -stats=none {C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/mux4.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux4
+
+Top level modules:
+	mux4
+
+} {} {}} {C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/alu32.v} {1 {vlog -work work -stats=none {C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/alu32.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module alu32
+
+Top level modules:
+	alu32
+
+} {} {}} {C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/datapath.v} {1 {vlog -work work -stats=none {C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/datapath.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder
+-- Compiling module FA
+-- Compiling module alu32
+-- Compiling module flopr_param
+-- Compiling module mux2
+-- Compiling module mux4
+-- Compiling module registerfile32
+-- Compiling module signext
+-- Compiling module slt2
+-- Compiling module Datapath
+
+Top level modules:
+	mux4
+	Datapath
+
+} {} {}} {C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/sl2.v} {1 {vlog -work work -stats=none {C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/sl2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module slt2
+
+Top level modules:
+	slt2
+
+} {} {}} {C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/control.v} {1 {vlog -work work -stats=none {C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/control.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module Controlunit
+
+Top level modules:
+	Controlunit
+
+} {} {}} {C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/regfile32.v} {1 {vlog -work work -stats=none {C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/regfile32.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module registerfile32
+
+Top level modules:
+	registerfile32
+
+} {} {}} {C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/rom.v} {1 {vlog -work work -stats=none {C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/rom.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module rom
+
+Top level modules:
+	rom
+
+} {} {}} {C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/adder.v} {1 {vlog -work work -stats=none {C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/adder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module adder
+-- Compiling module FA
+
+Top level modules:
+	adder
+
+} {} {}} {C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/ram.v} {1 {vlog -work work -stats=none {C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/ram.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module ram
+
+Top level modules:
+	ram
+
+} {} {}} {C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/signext.v} {1 {vlog -work work -stats=none {C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/signext.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module signext
+
+Top level modules:
+	signext
+
+} {} {}} {C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/decoder4.v} {1 {vlog -work work -stats=none {C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/decoder4.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module decoder4
+
+Top level modules:
+	decoder4
+
+} {} {}} {C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/flopr_param.v} {1 {vlog -work work -stats=none {C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/flopr_param.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module flopr_param
+
+Top level modules:
+	flopr_param
+
+} {} {}} {C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/MIPS_SCP_tb.v} {1 {vlog -work work -stats=none {C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/MIPS_SCP_tb.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module MIPS_SCP_tb
+
+Top level modules:
+	MIPS_SCP_tb
+
+} {} {}} {C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/mux2.v} {1 {vlog -work work -stats=none {C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/mux2.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 2020.1 Compiler 2020.02 Feb 28 2020
+-- Compiling module mux2
+
+Top level modules:
+	mux2
+
+} {} {}}

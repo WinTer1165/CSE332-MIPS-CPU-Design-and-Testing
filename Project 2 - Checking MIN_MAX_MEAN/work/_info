@@ -1,0 +1,384 @@
+m255
+K4
+z2
+!s11f vlog 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA_pro/20.1/modelsim_ase/win32aloem
+vadder
+Z0 !s110 1746032252
+!i10b 1
+!s100 POdD8SeL7hLzOOf0@VaNZ2
+Z1 !s11b Dg1SIo80bB@j0V0VzS_@n1
+IRjjkiVk>]`EGOM8T?Ode?1
+Z2 VDg1SIo80bB@j0V0VzS_@n1
+Z3 dC:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN
+Z4 w1705214447
+Z5 8adder.v
+Z6 Fadder.v
+!i122 1289
+L0 6 16
+Z7 OV;L;2020.1;71
+r1
+!s85 0
+31
+Z8 !s108 1746032252.000000
+Z9 !s107 control.v|rom.v|ram.v|sl2.v|signext.v|regfile32.v|mux4.v|mux2.v|flopr_param.v|alu32.v|adder.v|datapath.v|C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/MIPS_SCP.v|
+Z10 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/MIPS_SCP.v|
+!i113 1
+Z11 o-work work
+Z12 tCvgOpt 0
+valu32
+R0
+!i10b 1
+!s100 ]gY<PLG=LjDkAF_C<ITl=0
+R1
+I<jCzYWLD;ShUb=76XE]eg2
+R2
+R3
+w1704775379
+8alu32.v
+Falu32.v
+!i122 1289
+L0 6 29
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vControlunit
+R0
+!i10b 1
+!s100 IAUkQj]IZ7Ji934YJJ9Kz3
+R1
+ISTgfW9^hhff`T;CahR_NC0
+R2
+R3
+w1745943267
+8control.v
+Fcontrol.v
+!i122 1289
+L0 7 129
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@controlunit
+vDatapath
+R0
+!i10b 1
+!s100 l]cNgaQRQ35EoAEdDZ?G@3
+R1
+Il<BPRJJ?0a:2beH[fVB7K2
+R2
+R3
+w1745942648
+8datapath.v
+Fdatapath.v
+!i122 1289
+L0 12 47
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@datapath
+vdecoder4
+R0
+!i10b 1
+!s100 k1PDc_jh3bdPICKz6AkfC2
+R1
+IUS:AA@HXH0YL__>WR<Oz83
+R2
+R3
+w1704775437
+8C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/decoder4.v
+FC:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/decoder4.v
+!i122 1287
+L0 6 41
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/decoder4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/decoder4.v|
+!i113 1
+R11
+R12
+vFA
+R0
+!i10b 1
+!s100 H=jfXY22PJTHJQJ3=4<L=2
+R1
+I85UW]EN8NCzgQbPOdB`<`3
+R2
+R3
+R4
+R5
+R6
+!i122 1289
+L0 23 5
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@f@a
+vflopr_param
+R0
+!i10b 1
+!s100 ==fG^OPB_[hTIdMzE4P=z3
+R1
+IZ7MKT3J:[OAFdj59goeck1
+R2
+R3
+w1704775476
+8flopr_param.v
+Fflopr_param.v
+!i122 1289
+L0 6 13
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+vMIPS_SCP
+R0
+!i10b 1
+!s100 GnZN4IT`?WZz7V[X<[@T:2
+R1
+I^S0Sn?gMf2J^ZbR0K6VSa0
+R2
+R3
+w1745947644
+8C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/MIPS_SCP.v
+FC:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/MIPS_SCP.v
+!i122 1289
+L0 8 33
+R7
+r1
+!s85 0
+31
+R8
+R9
+R10
+!i113 1
+R11
+R12
+n@m@i@p@s_@s@c@p
+vMIPS_SCP_tb
+R0
+!i10b 1
+!s100 i?TRXk38lXU7ThR_J83RR2
+R1
+I6jb2FIXIclb0bFHkPj:BM0
+R2
+R3
+w1746021849
+8C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/MIPS_SCP_tb.v
+FC:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/MIPS_SCP_tb.v
+!i122 1290
+L0 15 43
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/MIPS_SCP_tb.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/MIPS_SCP_tb.v|
+!i113 1
+R11
+R12
+n@m@i@p@s_@s@c@p_tb
+vmux2
+R0
+!i10b 1
+!s100 cKn3GS0^`?]:SEii3GNzJ1
+R1
+I6ie233H91SJlMgHn`9ZVg1
+R2
+R3
+w1704776184
+8C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/mux2.v
+FC:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/mux2.v
+!i122 1291
+L0 6 12
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/mux2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/mux2.v|
+!i113 1
+R11
+R12
+vmux4
+R0
+!i10b 1
+!s100 K5ZiK[1HFMeGGATIz9djP2
+R1
+I>JAOhQBT8AD;zLmYFI:CR2
+R2
+R3
+w1704775545
+8C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/mux4.v
+FC:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/mux4.v
+!i122 1292
+Z13 L0 6 20
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/mux4.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/mux4.v|
+!i113 1
+R11
+R12
+vram
+R0
+!i10b 1
+!s100 d164]T7az:jD<k@Q>@;ce2
+R1
+I9Ck5G?kL0I;GL:5HI<Xgm0
+R2
+R3
+Z14 w1704776186
+8C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/ram.v
+FC:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/ram.v
+!i122 1293
+L0 5 24
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/ram.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/ram.v|
+!i113 1
+R11
+R12
+vregisterfile32
+R0
+!i10b 1
+!s100 UPaY0dJ8W7nOe;gZ1:dgo3
+R1
+Ib]`jUB1V?EJSk]7JW=hlV3
+R2
+R3
+R14
+8C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/regfile32.v
+FC:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/regfile32.v
+!i122 1294
+L0 6 34
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/regfile32.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/regfile32.v|
+!i113 1
+R11
+R12
+vrom
+R0
+!i10b 1
+!s100 YDcXZ`46Zc`ZYgiE4Mo_P3
+R1
+Id;;]Rcc:PGHK[h2R>5_bN1
+R2
+R3
+w1744098724
+8C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/rom.v
+FC:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/rom.v
+!i122 1295
+R13
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/rom.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/rom.v|
+!i113 1
+R11
+R12
+vsignext
+R0
+!i10b 1
+!s100 ]O6EBlmRCeeaS6VEg0jFT1
+R1
+IgR=AO8Y>m]ITlddYVd=di1
+R2
+R3
+w1704775668
+8C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/signext.v
+FC:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/signext.v
+!i122 1296
+L0 6 7
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/signext.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/signext.v|
+!i113 1
+R11
+R12
+vslt2
+!s110 1746032253
+!i10b 1
+!s100 L`WcOzOS9d8K6WWdkoel<0
+R1
+I]z0>?_okzi@KNBTeQT4LV2
+R2
+R3
+w1745900466
+8C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/sl2.v
+FC:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/sl2.v
+!i122 1297
+L0 6 6
+R7
+r1
+!s85 0
+31
+R8
+!s107 C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/sl2.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/User/Desktop/Project/Root/Project 2 - Checking MIN_MAX_MEAN/sl2.v|
+!i113 1
+R11
+R12

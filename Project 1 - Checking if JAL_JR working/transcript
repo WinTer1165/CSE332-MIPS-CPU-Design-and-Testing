@@ -1,0 +1,40 @@
+# Compile of adder.v was successful.
+# Compile of alu32.v was successful.
+# Compile of control.v was successful.
+# Compile of datapath.v was successful.
+# Compile of decoder4.v was successful.
+# Compile of flopr_param.v was successful.
+# Compile of MIPS_SCP.v was successful.
+# Compile of MIPS_SCP_tb.v was successful.
+# Compile of mux2.v was successful.
+# Compile of mux4.v was successful.
+# Compile of ram.v was successful.
+# Compile of regfile32.v was successful.
+# Compile of rom.v was successful.
+# Compile of signext.v was successful.
+# Compile of sl2.v was successful.
+# 15 compiles, 0 failed with no errors.
+vsim -gui work.MIPS_SCP_tb
+# vsim -gui work.MIPS_SCP_tb 
+# Start time: 22:36:57 on Apr 30,2025
+# Loading work.MIPS_SCP_tb
+# Loading work.MIPS_SCP
+# Loading work.Datapath
+# Loading work.flopr_param
+# Loading work.adder
+# Loading work.slt2
+# Loading work.mux2
+# Loading work.registerfile32
+# Loading work.alu32
+# Loading work.signext
+# Loading work.Controlunit
+# Loading work.ram
+# Loading work.rom
+# Loading work.FA
+add wave -position insertpoint sim:/MIPS_SCP_tb/*
+run -all
+# $a0 = 3 (0x00000003), position -> 4
+# $a1 = 7 (0x00000007), position -> 5
+# $v0 = 10 (0x0000000a), position -> 2
+# End time: 22:38:03 on Apr 30,2025, Elapsed time: 0:01:06
+# Errors: 0, Warnings: 3
