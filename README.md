@@ -390,18 +390,18 @@ make
 ```bash
 ./build/MipsAssembler hellomips.s hello.out hello.log
 ```
-<img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/1%20Pic/wsl.png" width="500" alt="Description of image">  
-<img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/1%20Pic/wsl.png" width="500" alt="Description of image">  
+<img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/3%20Pic/wsl.png" width="600" alt="Description of image">  
+<img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/3%20Pic/upasm.png" width="600" alt="Description of image">  
 
 2. View the binary file using any text editor:  
 
-<img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/1%20Pic/wsl.png" width="500" alt="Description of image">  
-<img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/1%20Pic/wsl.png" width="500" alt="Description of image">  
+<img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/3%20Pic/data.png" width="500" alt="Description of image">  
+<img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/3%20Pic/mem.png" width="500" alt="Description of image">  
 
 3. Transfer content from data.bin to data.txt and from text.bin to memfile.txt, and add these files to your project in ModelSim.
 
-4. Simulate the new project using the same methods as Project 0.
+4. Simulate the new project using the same methods as Project 0. We can see our testbench is working perfectly, and our data in Dmem, text in Imem is working perfectly. 
 
-<img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/1%20Pic/ms1.png" width="400" alt="Description of image">  
-<img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/1%20Pic/ms2.png" width="600" alt="Description of image"> 
-<img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/1%20Pic/mem.png" width="600" alt="Description of image"> 
+<img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/3%20Pic/ms1.png" width="400" alt="Description of image">  
+<img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/3%20Pic/ms2.png" width="600" alt="Description of image"> 
+<img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/3%20Pic/ms3.png" width="600" alt="Description of image"> 
