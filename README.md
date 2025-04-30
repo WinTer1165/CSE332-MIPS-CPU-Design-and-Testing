@@ -39,16 +39,16 @@ g++ finalassembler.cpp -o myassemblername
 ```bash
 ./myassemblername inttest2.s test.bin
 ```
-<img src="https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_16x9.jpg?w=1200" width="600" alt="Description of image">  
+<img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/0%20Pic/wsl.png" width="600" alt="Description of image">  
 6. View the binary file from assembly or use any text editor:  
 
 ```bash
  nano test.bin
 ```
-<img src="https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_16x9.jpg?w=1200" width="600" alt="Description of image">  
+<img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/0%20Pic/nano.png" width="600" alt="Description of image">  
 7. Transfer content from test.bin to memfile.txt (remove all spaces and hex addresses)
 
-<img src="https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_16x9.jpg?w=1200" width="600" alt="Description of image">  
+<img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/0%20Pic/mem.png" width="600" alt="Description of image">  
 
 ### Setting Up ModelSim
 
@@ -65,8 +65,8 @@ g++ finalassembler.cpp -o myassemblername
 11. Select the memory addresses you want to inspect
 12. Right-click on memory data and go to Properties to change display format to decimal for easier interpretation
    
-<img src="https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_16x9.jpg?w=1200" width="600" alt="Description of image">  
-<img src="https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_16x9.jpg?w=1200" width="600" alt="Description of image">  
+<img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/0%20Pic/ms1.png" width="600" alt="Description of image">  
+<img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/0%20Pic/ms2.png" width="600" alt="Description of image">  
 
 ## Project 1: Test JAL and JR instruction functionality
 Here we implemented JAL and JR in control.v and datapath.v verilog file. We also write a new testbench for MIPS_SCP_tb.v to show the output. Here is our jaljrtest.s and MIPS_SCP_tb.v file:  
@@ -106,26 +106,26 @@ module MIPS_SCP_tb;
 endmodule
 ```
 
-<img src="https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_16x9.jpg?w=1200" width="600" alt="Description of image">  
+<img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/1%20Pic/scode.png" width="600" alt="Description of image">  
 1. Create a binary file from assembly for our .s file:
 ```bash
 ./myassembler jaljrtest.s jaljrtest.bin
 ```
-<img src="https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_16x9.jpg?w=1200" width="600" alt="Description of image">  
+<img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/1%20Pic/wsl.png" width="600" alt="Description of image">  
 2. View the binary file from assembly or use any text editor:  
 
 ```bash
 nano jaljrtest.bin
 ```
-<img src="https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_16x9.jpg?w=1200" width="600" alt="Description of image">  
+<img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/1%20Pic/bin.png" width="600" alt="Description of image">  
 3. Transfer content from jaljrtest.bin to memfile.txt (remove all spaces and hex addresses)
 
-<img src="https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_16x9.jpg?w=1200" width="600" alt="Description of image"> 
+<img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/1%20Pic/mem.png" width="600" alt="Description of image"> 
 
 4. Simulate the new project using the same methods as Project 0.
 
-<img src="https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_16x9.jpg?w=1200" width="600" alt="Description of image">  
-<img src="https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_16x9.jpg?w=1200" width="600" alt="Description of image">  
+<img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/1%20Pic/ms1.png" width="600" alt="Description of image">  
+<img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/1%20Pic/ms2.png" width="600" alt="Description of image">  
 
 ## Project 2: Implement and verify MIN, MAX, MEAN operations
 Here we have written a .s code to find the minimum, maximum and mean(average) among some numbers. We also write a new testbench for MIPS_SCP_tb.v to show the output. Our mmm.s code:
@@ -266,18 +266,18 @@ endmodule
 ```bash
 ./myassembler mmm.s mmm.bin
 ```
-<img src="https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_16x9.jpg?w=1200" width="600" alt="Description of image">  
+<img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/2%20Pic/wsl.png" width="600" alt="Description of image">  
 2. View the binary file from assembly or use any text editor:  
 
 ```bash
 nano mmm.bin
 ```
-<img src="https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_16x9.jpg?w=1200" width="600" alt="Description of image">  
+<img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/2%20Pic/bin.png" width="600" alt="Description of image">  
 3. Transfer content from mmm.bin to memfile.txt (remove all spaces and hex addresses)
 
-<img src="https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_16x9.jpg?w=1200" width="600" alt="Description of image"> 
+<img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/2%20Pic/mem.png" width="600" alt="Description of image"> 
 
 4. Simulate the new project using the same methods as Project 0.
 
-<img src="https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_16x9.jpg?w=1200" width="600" alt="Description of image">  
-<img src="https://i.natgeofe.com/n/548467d8-c5f1-4551-9f58-6817a8d2c45e/NationalGeographic_2572187_16x9.jpg?w=1200" width="600" alt="Description of image">  
+<img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/2%20Pic/ms1.png" width="600" alt="Description of image">  
+<img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/2%20Pic/ms2.png" width="600" alt="Description of image">  
