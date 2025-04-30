@@ -11,10 +11,10 @@ This project implements a MIPS CPU design in Verilog and includes testing across
 
 ## Prerequisites
 
-1. ModelSim
-2. Ubuntu WSL
+1. ModelSim (Intel FPGA Starter Edition 2020.1)
+2. Ubuntu WSL (Ubuntu 22.04.5 LTS)
 3. MipsAssembler (for generating binary files)
-4. MIPSVerilogWOJAL (Verilog codebase)
+4. MIPSVerilogWOJAL (base Verilog codebase)
 5. UpgradedMIPS32Assembler (for .data section support)
 
 ## Project 0: Environment Setup
