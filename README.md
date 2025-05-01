@@ -108,9 +108,11 @@ endmodule
 
 <img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/1%20Pic/scode.png" width="400" alt="Description of image">  
 1. Create a binary file from wsl terminal for our .s file:
+
 ```bash
 ./myassembler jaljrtest.s jaljrtest.bin
 ```
+
 <img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/1%20Pic/wsl.png" width="500" alt="Description of image">  
 2. View the binary file from assembly or use any text editor:  
 
