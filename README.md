@@ -1,7 +1,7 @@
 # CSE332-MIPS-CPU-Design-and-Testing
 Despite numerous technical challenges, especially during our initial experience with WSL and simulation tools, we implemented key instructions such as JAL and JR and added support for the .data section. We also developed and tested Verilog testbenches to verify functionality. The process was at times difficult, but it significantly deepened our understanding of computer architecture and hardware simulation. 
 
-We would like to sincerely thank our course instructor, Dr. Mohammad Abdul Qayum, for the in-class demonstrations, which greatly helped our comprehension and guided our implementation.
+We would like to sincerely thank our course instructor, [Dr. Mohammad Abdul Qayum](https://ece.northsouth.edu/people/dr-mohammad-abdul-qayum/), for the in-class demonstrations, which greatly helped our comprehension and guided our implementation.
 
 This project implements a MIPS CPU design in Verilog and includes testing across four progressive project phases.
 
