@@ -69,6 +69,12 @@ g++ finalassembler.cpp -o myassemblername
 <img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/0%20Pic/ms2.png" width="600" alt="Description of image">  
 
 ## Project 1: Test JAL and JR instruction functionality
+
+![Demo One](https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/Demo/jaljr.gif)
+
+To implement the JAL and JR instructions in our MIPS CPU, we added two control signals, Jal and Jr to distinguish these operations. JAL (Opcode 0x03) requires writing the return address (PC+4) to register $ra, so we set RegWrite and used a mux (jalmux) to route PC+4 to the write back stage. JR (Opcode 0x00, Func 0x08) needs the next program counter (PC) to come from a register, so we introduced jumpmux2 to select
+between a normal jump and register-based jump based on the Jr signal. These changes required extending the control logic to detect and assign proper values to Jal and Jr, and modifying the datapath to support conditional PC updates and write-back routing. The main challenge was ensuring correct control signal combinations so that JAL could simultaneously jump and store a link, while JR could dynamically fetch the next PC from a register. These changes impacted the control unit, PC update logic, register file, and the multiplexers used to control the data flow. 
+
 Here we implemented JAL and JR in control.v and datapath.v verilog file. We also write a new testbench for MIPS_SCP_tb.v to show the output. Here is our jaljrtest.s and MIPS_SCP_tb.v file:  
 
 ```bash
