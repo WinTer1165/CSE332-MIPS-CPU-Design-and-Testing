@@ -69,6 +69,9 @@ g++ finalassembler.cpp -o myassemblername
 <img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/0%20Pic/ms2.png" width="600" alt="Description of image">  
 
 ## Project 1: Test JAL and JR instruction functionality
+
+[![Watch the video](https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/Video%20Demo/demo.png)](https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/Video%20Demo/jaljr.mkv)
+
 Here we implemented JAL and JR in control.v and datapath.v verilog file. We also write a new testbench for MIPS_SCP_tb.v to show the output. Here is our jaljrtest.s and MIPS_SCP_tb.v file:  
 
 ```bash
