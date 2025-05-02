@@ -1,4 +1,7 @@
 # CSE332-MIPS-CPU-Design-and-Testing
+Despite numerous technical challenges, especially during our initial experience with WSL and simulation tools, we implemented key instructions such as JAL and JR and added support for the .data section. We also developed and tested Verilog testbenches to verify functionality. The process was at times difficult, but it significantly deepened our understanding of computer architecture and hardware simulation. 
+
+We would like to sincerely thank our course instructor, Dr. Mohammad Abdul Qayum, for the in-class demonstrations, which greatly helped our comprehension and guided our implementation.
 
 This project implements a MIPS CPU design in Verilog and includes testing across four progressive project phases.
 
@@ -9,7 +12,7 @@ This project implements a MIPS CPU design in Verilog and includes testing across
 - **Project 2:** Implement and verify MIN, MAX, MEAN operations
 - **Project 3:** Add support for .data section handling
 
-## Prerequisites Software and Files
+## Prerequisites: Software and Files
 
 1. ModelSim (Intel FPGA Starter Edition 2020.1)
 2. Ubuntu WSL (Ubuntu 22.04.5 LTS)
