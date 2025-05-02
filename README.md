@@ -136,6 +136,9 @@ nano jaljrtest.bin
 <img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/1%20Pic/ms2.png" width="600" alt="Description of image">  
 
 ## Project 2: Implement and verify MIN, MAX, MEAN operations
+
+![Demo Two](https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/Demo/Mmm.gif)
+
 Here we have written a .s code to find the minimum, maximum, and mean(average) among some numbers. We also write a new testbench for MIPS_SCP_tb.v to show the output. Our mmm.s code:
 
 ```
@@ -291,6 +294,9 @@ nano mmm.bin
 <img src="https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/2%20Pic/ms2.png" width="600" alt="Description of image">  
 
 ## Project 3: Add support for .data section handling
+
+![Demo Three](https://github.com/WinTer1165/CSE332-MIPS-CPU-Design-and-Testing/blob/main/images/Demo/Datapath.gif)
+
 Here we added initial $readmemb("data.txt",  Dmem) in ram.v verilog file to add support for .data. We also write a new testbench for MIPS_SCP_tb.v to show the output. Here is our hellomips.s and MIPS_SCP_tb.v file:  
 
 ```bash
